@@ -1,0 +1,1 @@
+# LingoX-Universal-Translator
