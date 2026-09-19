@@ -1,6 +1,9 @@
 print("LingoX Universal Translator")
 print("------------------------------")
 
-text = input("Enter something you want LingoX to process: ")
+text = input("Enter your text: ")
+target_language = input("Translate to which language? ")
 
-print("You entered:", text)
+print("\nText:", text)
+print("Target language:", target_language)
+print("\nLingoX is preparing your translation...")
